@@ -1,8 +1,8 @@
-## नमस्ते 🙏, I'm Narendra Kumar Maurya
+## नमस्ते 🙏, I'm AVINASH VISHWAKARMA
 ## NEXT JS, REACTJS & MERN Stack Developer 👨‍💻
 # Narendra&nbsp;<img src="https://24.media.tumblr.com/a266677ebf095387092ed52add0685b8/tumblr_mpaas5eUwa1qh3xpmo1_500.gif" width="50px" height="50px">
 
-  <a href="https://narendra224.vercel.app/home">
+  <a href="https://vercel.com/avinash2507/my-portfolio">
     <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Earth.gif" />
     <b>My Personal Website</b>
 </a>
@@ -148,4 +148,4 @@ class Skills extends SoftwareDeveloper {
 
 
 
-## ⭐️ From [Narendra](https://github.com/narendram224)
+## ⭐️ From [Avinash](https://github.com/avinash2507)
