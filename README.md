@@ -133,13 +133,13 @@ class Skills extends SoftwareDeveloper {
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://www.linkedin.com/in/narendra-kumar-maurya-69303a165/">
+  <a href="https://www.linkedin.com/in/avinash-vishwakarma-6b0a7918b/">
     <img align="left" alt="Narendra Maurya | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/11711849/narendra-maurya">
+  <a href="https://stackoverflow.com/users/19481245/avinash-vishwakarma">
     <img align="left" alt="Satyam Goyal | Instagram"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:narendram224@gmail.com">
+  <a href="mailto:avinash2632@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
