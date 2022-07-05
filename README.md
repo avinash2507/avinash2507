@@ -17,9 +17,9 @@
 
 <p>
   <em>
-    I have graduate with computer science from <b>Sagar Institute of Science and technology</b> <br>
-    24 years of living a comical life! <br>
-    A passionate Web Developer with 3 years experience in Nextjs (typescript),React & Redux  internship 7 month of experience in  Web Development<br>
+    I have graduate with Electrical Engineering from <b>Hi-Tech Institute of Engineering & Technolgy </b> <br>
+    25 years of living a comical life! <br>
+    A passionate Web Developer with (Core Knowledge  in Electronics) Nextjs (typescript),React & Redux  internship 6 month of experience in  Mobile Communication field<br>
     <b>A friendly Neighbourhood Web Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px" height="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px" height="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px" height="18px">and 
@@ -30,7 +30,7 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" height="20vh" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" height="20vh" /> I’m *currently* **Exploring** 😴 or *working* on my **laptop** 👨‍💻
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" height="20vh" /> I’m **good** in **Web Development** and currently learning **Redux-saga and storyBook in react** 💪.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" height="20vh" /> For the reusablity of components I am following the **Atomic Design principle** along with that **styled-components** and **atomic css** & for the optimization I am following **redux-dev-tools** and **react-dev-tools** and **memo hoc**.
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" height="20vh" /> I Love **Learning** and **explore new tools and technologies** 🌐
@@ -42,7 +42,7 @@ import WebDevloper from 'India';
 import SoftDevloper from 'Javascript';
 
 class Bio extends WebDevloper {
-  name     = 'Narendra Maurya';
+  name     = 'Avinash Vishwakarma';
   title    = 'Web Developer';
   location = 'Bangalore,India';
 }
